@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pig-money-website/static/css/main.4dcc7583.chunk.css",
+    "main.js": "/pig-money-website/static/js/main.38241122.chunk.js",
+    "main.js.map": "/pig-money-website/static/js/main.38241122.chunk.js.map",
+    "runtime-main.js": "/pig-money-website/static/js/runtime-main.a7357a01.js",
+    "runtime-main.js.map": "/pig-money-website/static/js/runtime-main.a7357a01.js.map",
+    "static/css/2.8dbe6964.chunk.css": "/pig-money-website/static/css/2.8dbe6964.chunk.css",
+    "static/js/2.db26f8fb.chunk.js": "/pig-money-website/static/js/2.db26f8fb.chunk.js",
+    "static/js/2.db26f8fb.chunk.js.map": "/pig-money-website/static/js/2.db26f8fb.chunk.js.map",
+    "index.html": "/pig-money-website/index.html",
+    "precache-manifest.94f457ad83b8cc083d9aa410d6713cfb.js": "/pig-money-website/precache-manifest.94f457ad83b8cc083d9aa410d6713cfb.js",
+    "service-worker.js": "/pig-money-website/service-worker.js",
+    "static/css/2.8dbe6964.chunk.css.map": "/pig-money-website/static/css/2.8dbe6964.chunk.css.map",
+    "static/css/main.4dcc7583.chunk.css.map": "/pig-money-website/static/css/main.4dcc7583.chunk.css.map",
+    "static/js/2.db26f8fb.chunk.js.LICENSE.txt": "/pig-money-website/static/js/2.db26f8fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7357a01.js",
+    "static/css/2.8dbe6964.chunk.css",
+    "static/js/2.db26f8fb.chunk.js",
+    "static/css/main.4dcc7583.chunk.css",
+    "static/js/main.38241122.chunk.js"
+  ]
+}
